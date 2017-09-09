@@ -12,6 +12,528 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   log:
+  - CommitID: 0ea919ac58e1969add96b31e759d892d6bf958d2
+    MergeA: 
+    MergeB: 
+    AuthorName: mya0
+    AuthorEmail: moeto.yamada.67@gmail.com
+    CommitEmail: moeto.yamada.67@gmail.com
+    CommitName: mya0
+    Summary: Commit
+    Description: Commit
+    TimeString: 09/09/2017 20:20:08 +09:00
+    CommitTimeString: 09/09/2017 20:20:08 +09:00
+    Changes:
+    - Path: Assembly-CSharp.csproj
+      FullPath: /Users/azabu11/CommonUnityTraining2017/Assembly-CSharp.csproj
+      ProjectPath: Assembly-CSharp.csproj
+      OriginalPath: 
+      Status: 3
+      Staged: 0
+    - Path: CommonUnityTraining2017.userprefs
+      FullPath: /Users/azabu11/CommonUnityTraining2017/CommonUnityTraining2017.userprefs
+      ProjectPath: CommonUnityTraining2017.userprefs
+      OriginalPath: 
+      Status: 3
+      Staged: 0
+    - Path: Library/CurrentLayout.dwlt
+      FullPath: /Users/azabu11/CommonUnityTraining2017/Library/CurrentLayout.dwlt
+      ProjectPath: Library/CurrentLayout.dwlt
+      OriginalPath: 
+      Status: 3
+      Staged: 0
+    - Path: Library/EditorInstance.json
+      FullPath: /Users/azabu11/CommonUnityTraining2017/Library/EditorInstance.json
+      ProjectPath: Library/EditorInstance.json
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Library/ScriptAssemblies/BuiltinAssemblies.stamp
+      FullPath: /Users/azabu11/CommonUnityTraining2017/Library/ScriptAssemblies/BuiltinAssemblies.stamp
+      ProjectPath: Library/ScriptAssemblies/BuiltinAssemblies.stamp
+      OriginalPath: 
+      Status: 3
+      Staged: 0
+    - Path: Library/ScriptMapper
+      FullPath: /Users/azabu11/CommonUnityTraining2017/Library/ScriptMapper
+      ProjectPath: Library/ScriptMapper
+      OriginalPath: 
+      Status: 3
+      Staged: 0
+    - Path: Library/ShaderCache/0/0cdcfbb880e686d81107847e7120680f.bin
+      FullPath: /Users/azabu11/CommonUnityTraining2017/Library/ShaderCache/0/0cdcfbb880e686d81107847e7120680f.bin
+      ProjectPath: Library/ShaderCache/0/0cdcfbb880e686d81107847e7120680f.bin
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Library/ShaderCache/0/0f8df87eb3cd52c11fe941ccc40351a4.bin
+      FullPath: /Users/azabu11/CommonUnityTraining2017/Library/ShaderCache/0/0f8df87eb3cd52c11fe941ccc40351a4.bin
+      ProjectPath: Library/ShaderCache/0/0f8df87eb3cd52c11fe941ccc40351a4.bin
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Library/ShaderCache/2/2bf91bf730a16accac7d74f678317642.bin
+      FullPath: /Users/azabu11/CommonUnityTraining2017/Library/ShaderCache/2/2bf91bf730a16accac7d74f678317642.bin
+      ProjectPath: Library/ShaderCache/2/2bf91bf730a16accac7d74f678317642.bin
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Library/ShaderCache/3/327026e864876857609d2b0441823b11.bin
+      FullPath: /Users/azabu11/CommonUnityTraining2017/Library/ShaderCache/3/327026e864876857609d2b0441823b11.bin
+      ProjectPath: Library/ShaderCache/3/327026e864876857609d2b0441823b11.bin
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Library/ShaderCache/3/35917e609c0e8b8d989f332040d2348f.bin
+      FullPath: /Users/azabu11/CommonUnityTraining2017/Library/ShaderCache/3/35917e609c0e8b8d989f332040d2348f.bin
+      ProjectPath: Library/ShaderCache/3/35917e609c0e8b8d989f332040d2348f.bin
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Library/ShaderCache/5/59af5037facb08633d59a56ce693dfd8.bin
+      FullPath: /Users/azabu11/CommonUnityTraining2017/Library/ShaderCache/5/59af5037facb08633d59a56ce693dfd8.bin
+      ProjectPath: Library/ShaderCache/5/59af5037facb08633d59a56ce693dfd8.bin
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Library/ShaderCache/6/6120e04f338d7b7631d9dc20de74052b.bin
+      FullPath: /Users/azabu11/CommonUnityTraining2017/Library/ShaderCache/6/6120e04f338d7b7631d9dc20de74052b.bin
+      ProjectPath: Library/ShaderCache/6/6120e04f338d7b7631d9dc20de74052b.bin
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Library/ShaderCache/6/664fb51eb59e5eb3456ae876305c50e5.bin
+      FullPath: /Users/azabu11/CommonUnityTraining2017/Library/ShaderCache/6/664fb51eb59e5eb3456ae876305c50e5.bin
+      ProjectPath: Library/ShaderCache/6/664fb51eb59e5eb3456ae876305c50e5.bin
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Library/ShaderCache/8/8655c2d453b320bfed698d85e4448135.bin
+      FullPath: /Users/azabu11/CommonUnityTraining2017/Library/ShaderCache/8/8655c2d453b320bfed698d85e4448135.bin
+      ProjectPath: Library/ShaderCache/8/8655c2d453b320bfed698d85e4448135.bin
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Library/ShaderCache/8/8a0418a220da7e645db9529018889dcb.bin
+      FullPath: /Users/azabu11/CommonUnityTraining2017/Library/ShaderCache/8/8a0418a220da7e645db9529018889dcb.bin
+      ProjectPath: Library/ShaderCache/8/8a0418a220da7e645db9529018889dcb.bin
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Library/ShaderCache/b/b8b9398fd1c2bf379838abcc5dc50a1f.bin
+      FullPath: /Users/azabu11/CommonUnityTraining2017/Library/ShaderCache/b/b8b9398fd1c2bf379838abcc5dc50a1f.bin
+      ProjectPath: Library/ShaderCache/b/b8b9398fd1c2bf379838abcc5dc50a1f.bin
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Library/ShaderCache/b/bc0bad9aeac9b55831d3355492fa3133.bin
+      FullPath: /Users/azabu11/CommonUnityTraining2017/Library/ShaderCache/b/bc0bad9aeac9b55831d3355492fa3133.bin
+      ProjectPath: Library/ShaderCache/b/bc0bad9aeac9b55831d3355492fa3133.bin
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Library/ShaderCache/c/c536061a502d6f27807913bf9dfb28d4.bin
+      FullPath: /Users/azabu11/CommonUnityTraining2017/Library/ShaderCache/c/c536061a502d6f27807913bf9dfb28d4.bin
+      ProjectPath: Library/ShaderCache/c/c536061a502d6f27807913bf9dfb28d4.bin
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Library/ShaderCache/c/c6683264271feb1e8c78daa4d874782d.bin
+      FullPath: /Users/azabu11/CommonUnityTraining2017/Library/ShaderCache/c/c6683264271feb1e8c78daa4d874782d.bin
+      ProjectPath: Library/ShaderCache/c/c6683264271feb1e8c78daa4d874782d.bin
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Library/ShaderCache/c/c925b1c42c1b7742ee6447fb60eec4b5.bin
+      FullPath: /Users/azabu11/CommonUnityTraining2017/Library/ShaderCache/c/c925b1c42c1b7742ee6447fb60eec4b5.bin
+      ProjectPath: Library/ShaderCache/c/c925b1c42c1b7742ee6447fb60eec4b5.bin
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Library/ShaderCache/e/e554eec05301c3aa8dd2637abb4e17f7.bin
+      FullPath: /Users/azabu11/CommonUnityTraining2017/Library/ShaderCache/e/e554eec05301c3aa8dd2637abb4e17f7.bin
+      ProjectPath: Library/ShaderCache/e/e554eec05301c3aa8dd2637abb4e17f7.bin
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Library/assetDatabase3
+      FullPath: /Users/azabu11/CommonUnityTraining2017/Library/assetDatabase3
+      ProjectPath: Library/assetDatabase3
+      OriginalPath: 
+      Status: 3
+      Staged: 0
+    - Path: Library/gfu/cache/gitlog.yaml
+      FullPath: /Users/azabu11/CommonUnityTraining2017/Library/gfu/cache/gitlog.yaml
+      ProjectPath: Library/gfu/cache/gitlog.yaml
+      OriginalPath: 
+      Status: 3
+      Staged: 0
+    - Path: Library/metadata/01/0188ec438976e5849b40a2c1ce5f20f9
+      FullPath: /Users/azabu11/CommonUnityTraining2017/Library/metadata/01/0188ec438976e5849b40a2c1ce5f20f9
+      ProjectPath: Library/metadata/01/0188ec438976e5849b40a2c1ce5f20f9
+      OriginalPath: 
+      Status: 3
+      Staged: 0
+    - Path: Library/metadata/11/11043fc3a881495409d0828a9dcb372e
+      FullPath: /Users/azabu11/CommonUnityTraining2017/Library/metadata/11/11043fc3a881495409d0828a9dcb372e
+      ProjectPath: Library/metadata/11/11043fc3a881495409d0828a9dcb372e
+      OriginalPath: 
+      Status: 3
+      Staged: 0
+    - Path: Library/metadata/12/12fd8a0055b84bb59e84c9835a37e333
+      FullPath: /Users/azabu11/CommonUnityTraining2017/Library/metadata/12/12fd8a0055b84bb59e84c9835a37e333
+      ProjectPath: Library/metadata/12/12fd8a0055b84bb59e84c9835a37e333
+      OriginalPath: 
+      Status: 3
+      Staged: 0
+    - Path: Library/metadata/13/136dc24f151211d438acee17aff4e934
+      FullPath: /Users/azabu11/CommonUnityTraining2017/Library/metadata/13/136dc24f151211d438acee17aff4e934
+      ProjectPath: Library/metadata/13/136dc24f151211d438acee17aff4e934
+      OriginalPath: 
+      Status: 3
+      Staged: 0
+    - Path: Library/metadata/15/151a1d946b98deb4b98445400983ba92
+      FullPath: /Users/azabu11/CommonUnityTraining2017/Library/metadata/15/151a1d946b98deb4b98445400983ba92
+      ProjectPath: Library/metadata/15/151a1d946b98deb4b98445400983ba92
+      OriginalPath: 
+      Status: 3
+      Staged: 0
+    - Path: Library/metadata/15/15ca2bebf173f2d4484686a03a45b56d
+      FullPath: /Users/azabu11/CommonUnityTraining2017/Library/metadata/15/15ca2bebf173f2d4484686a03a45b56d
+      ProjectPath: Library/metadata/15/15ca2bebf173f2d4484686a03a45b56d
+      OriginalPath: 
+      Status: 3
+      Staged: 0
+    - Path: Library/metadata/18/18eb894d53ff491408b69602eb959000
+      FullPath: /Users/azabu11/CommonUnityTraining2017/Library/metadata/18/18eb894d53ff491408b69602eb959000
+      ProjectPath: Library/metadata/18/18eb894d53ff491408b69602eb959000
+      OriginalPath: 
+      Status: 3
+      Staged: 0
+    - Path: Library/metadata/1b/1bf89c9fbca28724a8d8fbcf427c47f4
+      FullPath: /Users/azabu11/CommonUnityTraining2017/Library/metadata/1b/1bf89c9fbca28724a8d8fbcf427c47f4
+      ProjectPath: Library/metadata/1b/1bf89c9fbca28724a8d8fbcf427c47f4
+      OriginalPath: 
+      Status: 3
+      Staged: 0
+    - Path: Library/metadata/1c/1c6d1fbb51834b64847b1b73a75bfc77
+      FullPath: /Users/azabu11/CommonUnityTraining2017/Library/metadata/1c/1c6d1fbb51834b64847b1b73a75bfc77
+      ProjectPath: Library/metadata/1c/1c6d1fbb51834b64847b1b73a75bfc77
+      OriginalPath: 
+      Status: 3
+      Staged: 0
+    - Path: Library/metadata/23/23c8bee69b591054094d32918f98facd
+      FullPath: /Users/azabu11/CommonUnityTraining2017/Library/metadata/23/23c8bee69b591054094d32918f98facd
+      ProjectPath: Library/metadata/23/23c8bee69b591054094d32918f98facd
+      OriginalPath: 
+      Status: 3
+      Staged: 0
+    - Path: Library/metadata/36/36f73b0d4842ba7448027c0215f522b1
+      FullPath: /Users/azabu11/CommonUnityTraining2017/Library/metadata/36/36f73b0d4842ba7448027c0215f522b1
+      ProjectPath: Library/metadata/36/36f73b0d4842ba7448027c0215f522b1
+      OriginalPath: 
+      Status: 3
+      Staged: 0
+    - Path: Library/metadata/3b/3b492e05a032ca64abd67a795b2662ef
+      FullPath: /Users/azabu11/CommonUnityTraining2017/Library/metadata/3b/3b492e05a032ca64abd67a795b2662ef
+      ProjectPath: Library/metadata/3b/3b492e05a032ca64abd67a795b2662ef
+      OriginalPath: 
+      Status: 3
+      Staged: 0
+    - Path: Library/metadata/40/405b9b51bb344a128608d968297df79c
+      FullPath: /Users/azabu11/CommonUnityTraining2017/Library/metadata/40/405b9b51bb344a128608d968297df79c
+      ProjectPath: Library/metadata/40/405b9b51bb344a128608d968297df79c
+      OriginalPath: 
+      Status: 3
+      Staged: 0
+    - Path: Library/metadata/41/4113173d5e95493ab8765d7b08371de4
+      FullPath: /Users/azabu11/CommonUnityTraining2017/Library/metadata/41/4113173d5e95493ab8765d7b08371de4
+      ProjectPath: Library/metadata/41/4113173d5e95493ab8765d7b08371de4
+      OriginalPath: 
+      Status: 3
+      Staged: 0
+    - Path: Library/metadata/48/48c22d5d7479fcb49ab3be0cdd2ccec0
+      FullPath: /Users/azabu11/CommonUnityTraining2017/Library/metadata/48/48c22d5d7479fcb49ab3be0cdd2ccec0
+      ProjectPath: Library/metadata/48/48c22d5d7479fcb49ab3be0cdd2ccec0
+      OriginalPath: 
+      Status: 3
+      Staged: 0
+    - Path: Library/metadata/4b/4b3fa4bde7f1451a8218c03ee6a8ded8
+      FullPath: /Users/azabu11/CommonUnityTraining2017/Library/metadata/4b/4b3fa4bde7f1451a8218c03ee6a8ded8
+      ProjectPath: Library/metadata/4b/4b3fa4bde7f1451a8218c03ee6a8ded8
+      OriginalPath: 
+      Status: 3
+      Staged: 0
+    - Path: Library/metadata/4b/4ba2329b63d54f0187bcaa12486b1b0f
+      FullPath: /Users/azabu11/CommonUnityTraining2017/Library/metadata/4b/4ba2329b63d54f0187bcaa12486b1b0f
+      ProjectPath: Library/metadata/4b/4ba2329b63d54f0187bcaa12486b1b0f
+      OriginalPath: 
+      Status: 3
+      Staged: 0
+    - Path: Library/metadata/53/53ebcfaa2e1e4e2dbc85882cd5a73fa1
+      FullPath: /Users/azabu11/CommonUnityTraining2017/Library/metadata/53/53ebcfaa2e1e4e2dbc85882cd5a73fa1
+      ProjectPath: Library/metadata/53/53ebcfaa2e1e4e2dbc85882cd5a73fa1
+      OriginalPath: 
+      Status: 3
+      Staged: 0
+    - Path: Library/metadata/59/598f7cc167e65424284e573aff0f1294
+      FullPath: /Users/azabu11/CommonUnityTraining2017/Library/metadata/59/598f7cc167e65424284e573aff0f1294
+      ProjectPath: Library/metadata/59/598f7cc167e65424284e573aff0f1294
+      OriginalPath: 
+      Status: 3
+      Staged: 0
+    - Path: Library/metadata/5f/5f32cd94baa94578a686d4b9d6b660f7
+      FullPath: /Users/azabu11/CommonUnityTraining2017/Library/metadata/5f/5f32cd94baa94578a686d4b9d6b660f7
+      ProjectPath: Library/metadata/5f/5f32cd94baa94578a686d4b9d6b660f7
+      OriginalPath: 
+      Status: 3
+      Staged: 0
+    - Path: Library/metadata/67/67a48bef50c8f384ab614ca4fd2f1d25
+      FullPath: /Users/azabu11/CommonUnityTraining2017/Library/metadata/67/67a48bef50c8f384ab614ca4fd2f1d25
+      ProjectPath: Library/metadata/67/67a48bef50c8f384ab614ca4fd2f1d25
+      OriginalPath: 
+      Status: 3
+      Staged: 0
+    - Path: Library/metadata/6a/6a10b2909283487f913b00d94cd3faf5
+      FullPath: /Users/azabu11/CommonUnityTraining2017/Library/metadata/6a/6a10b2909283487f913b00d94cd3faf5
+      ProjectPath: Library/metadata/6a/6a10b2909283487f913b00d94cd3faf5
+      OriginalPath: 
+      Status: 3
+      Staged: 0
+    - Path: Library/metadata/73/739bbd9f364b4268874f9fd86ab3beef
+      FullPath: /Users/azabu11/CommonUnityTraining2017/Library/metadata/73/739bbd9f364b4268874f9fd86ab3beef
+      ProjectPath: Library/metadata/73/739bbd9f364b4268874f9fd86ab3beef
+      OriginalPath: 
+      Status: 3
+      Staged: 0
+    - Path: Library/metadata/76/7668179ede524d6396c8b7d84461ea29
+      FullPath: /Users/azabu11/CommonUnityTraining2017/Library/metadata/76/7668179ede524d6396c8b7d84461ea29
+      ProjectPath: Library/metadata/76/7668179ede524d6396c8b7d84461ea29
+      OriginalPath: 
+      Status: 3
+      Staged: 0
+    - Path: Library/metadata/76/7668179ede524d6396c8b7d84461ea29.info
+      FullPath: /Users/azabu11/CommonUnityTraining2017/Library/metadata/76/7668179ede524d6396c8b7d84461ea29.info
+      ProjectPath: Library/metadata/76/7668179ede524d6396c8b7d84461ea29.info
+      OriginalPath: 
+      Status: 3
+      Staged: 0
+    - Path: Library/metadata/79/790749ba7e4b18141953e39cb13f1b79
+      FullPath: /Users/azabu11/CommonUnityTraining2017/Library/metadata/79/790749ba7e4b18141953e39cb13f1b79
+      ProjectPath: Library/metadata/79/790749ba7e4b18141953e39cb13f1b79
+      OriginalPath: 
+      Status: 3
+      Staged: 0
+    - Path: Library/metadata/80/80a3616ca19596e4da0f10f14d241e9f
+      FullPath: /Users/azabu11/CommonUnityTraining2017/Library/metadata/80/80a3616ca19596e4da0f10f14d241e9f
+      ProjectPath: Library/metadata/80/80a3616ca19596e4da0f10f14d241e9f
+      OriginalPath: 
+      Status: 3
+      Staged: 0
+    - Path: Library/metadata/83/8382b2bb260241859771b69b7f377a8d
+      FullPath: /Users/azabu11/CommonUnityTraining2017/Library/metadata/83/8382b2bb260241859771b69b7f377a8d
+      ProjectPath: Library/metadata/83/8382b2bb260241859771b69b7f377a8d
+      OriginalPath: 
+      Status: 3
+      Staged: 0
+    - Path: Library/metadata/83/8394acfdb3079ab44bb9f2eca6339f5d
+      FullPath: /Users/azabu11/CommonUnityTraining2017/Library/metadata/83/8394acfdb3079ab44bb9f2eca6339f5d
+      ProjectPath: Library/metadata/83/8394acfdb3079ab44bb9f2eca6339f5d
+      OriginalPath: 
+      Status: 3
+      Staged: 0
+    - Path: Library/metadata/84/844f815391db42d49455cbf1a7bfc434
+      FullPath: /Users/azabu11/CommonUnityTraining2017/Library/metadata/84/844f815391db42d49455cbf1a7bfc434
+      ProjectPath: Library/metadata/84/844f815391db42d49455cbf1a7bfc434
+      OriginalPath: 
+      Status: 3
+      Staged: 0
+    - Path: Library/metadata/85/852e56802eb941638acbb491814497b0
+      FullPath: /Users/azabu11/CommonUnityTraining2017/Library/metadata/85/852e56802eb941638acbb491814497b0
+      ProjectPath: Library/metadata/85/852e56802eb941638acbb491814497b0
+      OriginalPath: 
+      Status: 3
+      Staged: 0
+    - Path: Library/metadata/86/868fbb4c41814baebc00f96e24ede2f8
+      FullPath: /Users/azabu11/CommonUnityTraining2017/Library/metadata/86/868fbb4c41814baebc00f96e24ede2f8
+      ProjectPath: Library/metadata/86/868fbb4c41814baebc00f96e24ede2f8
+      OriginalPath: 
+      Status: 3
+      Staged: 0
+    - Path: Library/metadata/86/86f4de9468454445ac2f39e207fafa3a
+      FullPath: /Users/azabu11/CommonUnityTraining2017/Library/metadata/86/86f4de9468454445ac2f39e207fafa3a
+      ProjectPath: Library/metadata/86/86f4de9468454445ac2f39e207fafa3a
+      OriginalPath: 
+      Status: 3
+      Staged: 0
+    - Path: Library/metadata/87/870353891bb340e2b2a9c8707e7419ba
+      FullPath: /Users/azabu11/CommonUnityTraining2017/Library/metadata/87/870353891bb340e2b2a9c8707e7419ba
+      ProjectPath: Library/metadata/87/870353891bb340e2b2a9c8707e7419ba
+      OriginalPath: 
+      Status: 3
+      Staged: 0
+    - Path: Library/metadata/8e/8e0cd8ed44d4412cbe0642067abc9e44
+      FullPath: /Users/azabu11/CommonUnityTraining2017/Library/metadata/8e/8e0cd8ed44d4412cbe0642067abc9e44
+      ProjectPath: Library/metadata/8e/8e0cd8ed44d4412cbe0642067abc9e44
+      OriginalPath: 
+      Status: 3
+      Staged: 0
+    - Path: Library/metadata/97/97decbdab0634cdd991f8d23ddf0dead
+      FullPath: /Users/azabu11/CommonUnityTraining2017/Library/metadata/97/97decbdab0634cdd991f8d23ddf0dead
+      ProjectPath: Library/metadata/97/97decbdab0634cdd991f8d23ddf0dead
+      OriginalPath: 
+      Status: 3
+      Staged: 0
+    - Path: Library/metadata/99/99b48d4d4f6a66340ab06bd487d70a45
+      FullPath: /Users/azabu11/CommonUnityTraining2017/Library/metadata/99/99b48d4d4f6a66340ab06bd487d70a45
+      ProjectPath: Library/metadata/99/99b48d4d4f6a66340ab06bd487d70a45
+      OriginalPath: 
+      Status: 3
+      Staged: 0
+    - Path: Library/metadata/9a/9a3d76defc526e24fb350cdf5358b386
+      FullPath: /Users/azabu11/CommonUnityTraining2017/Library/metadata/9a/9a3d76defc526e24fb350cdf5358b386
+      ProjectPath: Library/metadata/9a/9a3d76defc526e24fb350cdf5358b386
+      OriginalPath: 
+      Status: 3
+      Staged: 0
+    - Path: Library/metadata/a0/a0ded7adcc817ce489fec07977f16d13
+      FullPath: /Users/azabu11/CommonUnityTraining2017/Library/metadata/a0/a0ded7adcc817ce489fec07977f16d13
+      ProjectPath: Library/metadata/a0/a0ded7adcc817ce489fec07977f16d13
+      OriginalPath: 
+      Status: 3
+      Staged: 0
+    - Path: Library/metadata/a1/a1ae072c6d0a6fe42881de7c5c8d66eb
+      FullPath: /Users/azabu11/CommonUnityTraining2017/Library/metadata/a1/a1ae072c6d0a6fe42881de7c5c8d66eb
+      ProjectPath: Library/metadata/a1/a1ae072c6d0a6fe42881de7c5c8d66eb
+      OriginalPath: 
+      Status: 3
+      Staged: 0
+    - Path: Library/metadata/a8/a83159a46d87d2a4f8cec651049b9231
+      FullPath: /Users/azabu11/CommonUnityTraining2017/Library/metadata/a8/a83159a46d87d2a4f8cec651049b9231
+      ProjectPath: Library/metadata/a8/a83159a46d87d2a4f8cec651049b9231
+      OriginalPath: 
+      Status: 3
+      Staged: 0
+    - Path: Library/metadata/aa/aa1ea5443647d3f41ad4a9721108be29
+      FullPath: /Users/azabu11/CommonUnityTraining2017/Library/metadata/aa/aa1ea5443647d3f41ad4a9721108be29
+      ProjectPath: Library/metadata/aa/aa1ea5443647d3f41ad4a9721108be29
+      OriginalPath: 
+      Status: 3
+      Staged: 0
+    - Path: Library/metadata/ad/adebbd281f1a4ef3a30be7f21937e02f
+      FullPath: /Users/azabu11/CommonUnityTraining2017/Library/metadata/ad/adebbd281f1a4ef3a30be7f21937e02f
+      ProjectPath: Library/metadata/ad/adebbd281f1a4ef3a30be7f21937e02f
+      OriginalPath: 
+      Status: 3
+      Staged: 0
+    - Path: Library/metadata/b1/b11c05f6b4d178142971027059c71477
+      FullPath: /Users/azabu11/CommonUnityTraining2017/Library/metadata/b1/b11c05f6b4d178142971027059c71477
+      ProjectPath: Library/metadata/b1/b11c05f6b4d178142971027059c71477
+      OriginalPath: 
+      Status: 3
+      Staged: 0
+    - Path: Library/metadata/ba/ba8ad3e6c5be01e448c1f3593515049c
+      FullPath: /Users/azabu11/CommonUnityTraining2017/Library/metadata/ba/ba8ad3e6c5be01e448c1f3593515049c
+      ProjectPath: Library/metadata/ba/ba8ad3e6c5be01e448c1f3593515049c
+      OriginalPath: 
+      Status: 3
+      Staged: 0
+    - Path: Library/metadata/c5/c5c83d14802e712408f23409f3c59e26
+      FullPath: /Users/azabu11/CommonUnityTraining2017/Library/metadata/c5/c5c83d14802e712408f23409f3c59e26
+      ProjectPath: Library/metadata/c5/c5c83d14802e712408f23409f3c59e26
+      OriginalPath: 
+      Status: 3
+      Staged: 0
+    - Path: Library/metadata/c7/c743ae24ee231884887054d20ccdd0ae
+      FullPath: /Users/azabu11/CommonUnityTraining2017/Library/metadata/c7/c743ae24ee231884887054d20ccdd0ae
+      ProjectPath: Library/metadata/c7/c743ae24ee231884887054d20ccdd0ae
+      OriginalPath: 
+      Status: 3
+      Staged: 0
+    - Path: Library/metadata/ca/ca9ef9f91d24fab40addaf0deaf60506
+      FullPath: /Users/azabu11/CommonUnityTraining2017/Library/metadata/ca/ca9ef9f91d24fab40addaf0deaf60506
+      ProjectPath: Library/metadata/ca/ca9ef9f91d24fab40addaf0deaf60506
+      OriginalPath: 
+      Status: 3
+      Staged: 0
+    - Path: Library/metadata/ca/cab1a58660fb39f4f807d2ca2c727471
+      FullPath: /Users/azabu11/CommonUnityTraining2017/Library/metadata/ca/cab1a58660fb39f4f807d2ca2c727471
+      ProjectPath: Library/metadata/ca/cab1a58660fb39f4f807d2ca2c727471
+      OriginalPath: 
+      Status: 3
+      Staged: 0
+    - Path: Library/metadata/d5/d516f2a1bec6a9645a084ef8c9237132
+      FullPath: /Users/azabu11/CommonUnityTraining2017/Library/metadata/d5/d516f2a1bec6a9645a084ef8c9237132
+      ProjectPath: Library/metadata/d5/d516f2a1bec6a9645a084ef8c9237132
+      OriginalPath: 
+      Status: 3
+      Staged: 0
+    - Path: Library/metadata/dc/dc443db3e92b4983b9738c1131f555cb
+      FullPath: /Users/azabu11/CommonUnityTraining2017/Library/metadata/dc/dc443db3e92b4983b9738c1131f555cb
+      ProjectPath: Library/metadata/dc/dc443db3e92b4983b9738c1131f555cb
+      OriginalPath: 
+      Status: 3
+      Staged: 0
+    - Path: Library/metadata/ec/ecfb28d906a32914d956497c8d3b3395
+      FullPath: /Users/azabu11/CommonUnityTraining2017/Library/metadata/ec/ecfb28d906a32914d956497c8d3b3395
+      ProjectPath: Library/metadata/ec/ecfb28d906a32914d956497c8d3b3395
+      OriginalPath: 
+      Status: 3
+      Staged: 0
+    - Path: Library/metadata/f5/f5f67c52d1564df4a8936ccd202a3bd8
+      FullPath: /Users/azabu11/CommonUnityTraining2017/Library/metadata/f5/f5f67c52d1564df4a8936ccd202a3bd8
+      ProjectPath: Library/metadata/f5/f5f67c52d1564df4a8936ccd202a3bd8
+      OriginalPath: 
+      Status: 3
+      Staged: 0
+    - Path: Library/metadata/f7/f70555f144d8491a825f0804e09c671c
+      FullPath: /Users/azabu11/CommonUnityTraining2017/Library/metadata/f7/f70555f144d8491a825f0804e09c671c
+      ProjectPath: Library/metadata/f7/f70555f144d8491a825f0804e09c671c
+      OriginalPath: 
+      Status: 3
+      Staged: 0
+    - Path: Library/metadata/f7/f7b54ff4a43d4fcf81b4538b678e0bcc
+      FullPath: /Users/azabu11/CommonUnityTraining2017/Library/metadata/f7/f7b54ff4a43d4fcf81b4538b678e0bcc
+      ProjectPath: Library/metadata/f7/f7b54ff4a43d4fcf81b4538b678e0bcc
+      OriginalPath: 
+      Status: 3
+      Staged: 0
+    - Path: Library/metadata/f9/f9fc9b08ecd899944adf9860b4abd6b6
+      FullPath: /Users/azabu11/CommonUnityTraining2017/Library/metadata/f9/f9fc9b08ecd899944adf9860b4abd6b6
+      ProjectPath: Library/metadata/f9/f9fc9b08ecd899944adf9860b4abd6b6
+      OriginalPath: 
+      Status: 3
+      Staged: 0
+    - Path: Library/metadata/fe/fe5abeadcbe591e4fa9107fbc02f3998
+      FullPath: /Users/azabu11/CommonUnityTraining2017/Library/metadata/fe/fe5abeadcbe591e4fa9107fbc02f3998
+      ProjectPath: Library/metadata/fe/fe5abeadcbe591e4fa9107fbc02f3998
+      OriginalPath: 
+      Status: 3
+      Staged: 0
+    - Path: Library/shadercompiler-UnityShaderCompiler0.log
+      FullPath: /Users/azabu11/CommonUnityTraining2017/Library/shadercompiler-UnityShaderCompiler0.log
+      ProjectPath: Library/shadercompiler-UnityShaderCompiler0.log
+      OriginalPath: 
+      Status: 3
+      Staged: 0
+    - Path: Temp/ProcessJobs/e9a6970f79cd12d8b075e7d72f1b07cb.bakert
+      FullPath: /Users/azabu11/CommonUnityTraining2017/Temp/ProcessJobs/e9a6970f79cd12d8b075e7d72f1b07cb.bakert
+      ProjectPath: Temp/ProcessJobs/e9a6970f79cd12d8b075e7d72f1b07cb.bakert
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Temp/UnityLockfile
+      FullPath: /Users/azabu11/CommonUnityTraining2017/Temp/UnityLockfile
+      ProjectPath: Temp/UnityLockfile
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Temp/UnityTempFile-f39a0689819354c13bdad2fec2854490
+      FullPath: /Users/azabu11/CommonUnityTraining2017/Temp/UnityTempFile-f39a0689819354c13bdad2fec2854490
+      ProjectPath: Temp/UnityTempFile-f39a0689819354c13bdad2fec2854490
+      OriginalPath: 
+      Status: 4
+      Staged: 0
   - CommitID: 0db1038993750b79a7fbb3700823075828658343
     MergeA: 
     MergeB: 
