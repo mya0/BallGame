@@ -1,0 +1,10 @@
+language: generic
+os: osx
+branches:
+  only:
+  - master
+install:
+- sudo -E sh ./install.sh
+
+script:
+- sudo -E sh ./build.sh
