@@ -12,6 +12,642 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   log:
+  - CommitID: 0db1038993750b79a7fbb3700823075828658343
+    MergeA: 
+    MergeB: 
+    AuthorName: mya0
+    AuthorEmail: moeto.yamada.67@gmail.com
+    CommitEmail: moeto.yamada.67@gmail.com
+    CommitName: mya0
+    Summary: Update README.md
+    Description: Update README.md
+    TimeString: 08/12/2017 22:36:09 +09:00
+    CommitTimeString: 08/12/2017 22:37:30 +09:00
+    Changes:
+    - Path: README.md
+      FullPath: /Users/azabu11/CommonUnityTraining2017/README.md
+      ProjectPath: README.md
+      OriginalPath: 
+      Status: 3
+      Staged: 0
+  - CommitID: 3a5d6921c5e5a874048febd09ae3828273797171
+    MergeA: 
+    MergeB: 
+    AuthorName: mya0
+    AuthorEmail: moeto.yamada.67@gmail.com
+    CommitEmail: moeto.yamada.67@gmail.com
+    CommitName: mya0
+    Summary: update
+    Description: update
+    TimeString: 08/12/2017 22:34:26 +09:00
+    CommitTimeString: 08/12/2017 22:34:26 +09:00
+    Changes:
+    - Path: Library/CurrentLayout.dwlt
+      FullPath: /Users/azabu11/CommonUnityTraining2017/Library/CurrentLayout.dwlt
+      ProjectPath: Library/CurrentLayout.dwlt
+      OriginalPath: 
+      Status: 3
+      Staged: 0
+    - Path: Library/EditorInstance.json
+      FullPath: /Users/azabu11/CommonUnityTraining2017/Library/EditorInstance.json
+      ProjectPath: Library/EditorInstance.json
+      OriginalPath: 
+      Status: 5
+      Staged: 0
+    - Path: Temp/ProcessJobs/e9a6970f79cd12d8b075e7d72f1b07cb.bakert
+      FullPath: /Users/azabu11/CommonUnityTraining2017/Temp/ProcessJobs/e9a6970f79cd12d8b075e7d72f1b07cb.bakert
+      ProjectPath: Temp/ProcessJobs/e9a6970f79cd12d8b075e7d72f1b07cb.bakert
+      OriginalPath: 
+      Status: 5
+      Staged: 0
+    - Path: Temp/UnityLockfile
+      FullPath: /Users/azabu11/CommonUnityTraining2017/Temp/UnityLockfile
+      ProjectPath: Temp/UnityLockfile
+      OriginalPath: 
+      Status: 5
+      Staged: 0
+  - CommitID: 9137ec773cecf04ff1503301e677bf1536dca3e2
+    MergeA: 
+    MergeB: 
+    AuthorName: mya0
+    AuthorEmail: moeto.yamada.67@gmail.com
+    CommitEmail: moeto.yamada.67@gmail.com
+    CommitName: mya0
+    Summary: Delete Files
+    Description: Delete Files
+    TimeString: 08/12/2017 21:44:31 +09:00
+    CommitTimeString: 08/12/2017 21:44:31 +09:00
+    Changes:
+    - Path: Library/EditorInstance.json
+      FullPath: /Users/azabu11/CommonUnityTraining2017/Library/EditorInstance.json
+      ProjectPath: Library/EditorInstance.json
+      OriginalPath: 
+      Status: 3
+      Staged: 0
+    - Path: Library/gfu/cache/gitlog.yaml
+      FullPath: /Users/azabu11/CommonUnityTraining2017/Library/gfu/cache/gitlog.yaml
+      ProjectPath: Library/gfu/cache/gitlog.yaml
+      OriginalPath: 
+      Status: 3
+      Staged: 0
+    - Path: Temp/Export Package/31cf7804382054ea0ad0aa017e677479/0188ec438976e5849b40a2c1ce5f20f9/asset
+      FullPath: /Users/azabu11/CommonUnityTraining2017/Temp/Export Package/31cf7804382054ea0ad0aa017e677479/0188ec438976e5849b40a2c1ce5f20f9/asset
+      ProjectPath: Temp/Export Package/31cf7804382054ea0ad0aa017e677479/0188ec438976e5849b40a2c1ce5f20f9/asset
+      OriginalPath: 
+      Status: 5
+      Staged: 0
+    - Path: Temp/Export Package/31cf7804382054ea0ad0aa017e677479/0188ec438976e5849b40a2c1ce5f20f9/asset.meta
+      FullPath: /Users/azabu11/CommonUnityTraining2017/Temp/Export Package/31cf7804382054ea0ad0aa017e677479/0188ec438976e5849b40a2c1ce5f20f9/asset.meta
+      ProjectPath: Temp/Export Package/31cf7804382054ea0ad0aa017e677479/0188ec438976e5849b40a2c1ce5f20f9/asset.meta
+      OriginalPath: 
+      Status: 5
+      Staged: 0
+    - Path: Temp/Export Package/31cf7804382054ea0ad0aa017e677479/0188ec438976e5849b40a2c1ce5f20f9/pathname
+      FullPath: /Users/azabu11/CommonUnityTraining2017/Temp/Export Package/31cf7804382054ea0ad0aa017e677479/0188ec438976e5849b40a2c1ce5f20f9/pathname
+      ProjectPath: Temp/Export Package/31cf7804382054ea0ad0aa017e677479/0188ec438976e5849b40a2c1ce5f20f9/pathname
+      OriginalPath: 
+      Status: 5
+      Staged: 0
+    - Path: Temp/Export Package/31cf7804382054ea0ad0aa017e677479/11043fc3a881495409d0828a9dcb372e/asset
+      FullPath: /Users/azabu11/CommonUnityTraining2017/Temp/Export Package/31cf7804382054ea0ad0aa017e677479/11043fc3a881495409d0828a9dcb372e/asset
+      ProjectPath: Temp/Export Package/31cf7804382054ea0ad0aa017e677479/11043fc3a881495409d0828a9dcb372e/asset
+      OriginalPath: 
+      Status: 5
+      Staged: 0
+    - Path: Temp/Export Package/31cf7804382054ea0ad0aa017e677479/11043fc3a881495409d0828a9dcb372e/asset.meta
+      FullPath: /Users/azabu11/CommonUnityTraining2017/Temp/Export Package/31cf7804382054ea0ad0aa017e677479/11043fc3a881495409d0828a9dcb372e/asset.meta
+      ProjectPath: Temp/Export Package/31cf7804382054ea0ad0aa017e677479/11043fc3a881495409d0828a9dcb372e/asset.meta
+      OriginalPath: 
+      Status: 5
+      Staged: 0
+    - Path: Temp/Export Package/31cf7804382054ea0ad0aa017e677479/11043fc3a881495409d0828a9dcb372e/pathname
+      FullPath: /Users/azabu11/CommonUnityTraining2017/Temp/Export Package/31cf7804382054ea0ad0aa017e677479/11043fc3a881495409d0828a9dcb372e/pathname
+      ProjectPath: Temp/Export Package/31cf7804382054ea0ad0aa017e677479/11043fc3a881495409d0828a9dcb372e/pathname
+      OriginalPath: 
+      Status: 5
+      Staged: 0
+    - Path: Temp/Export Package/31cf7804382054ea0ad0aa017e677479/136dc24f151211d438acee17aff4e934/asset
+      FullPath: /Users/azabu11/CommonUnityTraining2017/Temp/Export Package/31cf7804382054ea0ad0aa017e677479/136dc24f151211d438acee17aff4e934/asset
+      ProjectPath: Temp/Export Package/31cf7804382054ea0ad0aa017e677479/136dc24f151211d438acee17aff4e934/asset
+      OriginalPath: 
+      Status: 5
+      Staged: 0
+    - Path: Temp/Export Package/31cf7804382054ea0ad0aa017e677479/136dc24f151211d438acee17aff4e934/asset.meta
+      FullPath: /Users/azabu11/CommonUnityTraining2017/Temp/Export Package/31cf7804382054ea0ad0aa017e677479/136dc24f151211d438acee17aff4e934/asset.meta
+      ProjectPath: Temp/Export Package/31cf7804382054ea0ad0aa017e677479/136dc24f151211d438acee17aff4e934/asset.meta
+      OriginalPath: 
+      Status: 5
+      Staged: 0
+    - Path: Temp/Export Package/31cf7804382054ea0ad0aa017e677479/136dc24f151211d438acee17aff4e934/pathname
+      FullPath: /Users/azabu11/CommonUnityTraining2017/Temp/Export Package/31cf7804382054ea0ad0aa017e677479/136dc24f151211d438acee17aff4e934/pathname
+      ProjectPath: Temp/Export Package/31cf7804382054ea0ad0aa017e677479/136dc24f151211d438acee17aff4e934/pathname
+      OriginalPath: 
+      Status: 5
+      Staged: 0
+    - Path: Temp/Export Package/31cf7804382054ea0ad0aa017e677479/151a1d946b98deb4b98445400983ba92/asset
+      FullPath: /Users/azabu11/CommonUnityTraining2017/Temp/Export Package/31cf7804382054ea0ad0aa017e677479/151a1d946b98deb4b98445400983ba92/asset
+      ProjectPath: Temp/Export Package/31cf7804382054ea0ad0aa017e677479/151a1d946b98deb4b98445400983ba92/asset
+      OriginalPath: 
+      Status: 5
+      Staged: 0
+    - Path: Temp/Export Package/31cf7804382054ea0ad0aa017e677479/151a1d946b98deb4b98445400983ba92/asset.meta
+      FullPath: /Users/azabu11/CommonUnityTraining2017/Temp/Export Package/31cf7804382054ea0ad0aa017e677479/151a1d946b98deb4b98445400983ba92/asset.meta
+      ProjectPath: Temp/Export Package/31cf7804382054ea0ad0aa017e677479/151a1d946b98deb4b98445400983ba92/asset.meta
+      OriginalPath: 
+      Status: 5
+      Staged: 0
+    - Path: Temp/Export Package/31cf7804382054ea0ad0aa017e677479/151a1d946b98deb4b98445400983ba92/pathname
+      FullPath: /Users/azabu11/CommonUnityTraining2017/Temp/Export Package/31cf7804382054ea0ad0aa017e677479/151a1d946b98deb4b98445400983ba92/pathname
+      ProjectPath: Temp/Export Package/31cf7804382054ea0ad0aa017e677479/151a1d946b98deb4b98445400983ba92/pathname
+      OriginalPath: 
+      Status: 5
+      Staged: 0
+    - Path: Temp/Export Package/31cf7804382054ea0ad0aa017e677479/15ca2bebf173f2d4484686a03a45b56d/asset
+      FullPath: /Users/azabu11/CommonUnityTraining2017/Temp/Export Package/31cf7804382054ea0ad0aa017e677479/15ca2bebf173f2d4484686a03a45b56d/asset
+      ProjectPath: Temp/Export Package/31cf7804382054ea0ad0aa017e677479/15ca2bebf173f2d4484686a03a45b56d/asset
+      OriginalPath: 
+      Status: 5
+      Staged: 0
+    - Path: Temp/Export Package/31cf7804382054ea0ad0aa017e677479/15ca2bebf173f2d4484686a03a45b56d/asset.meta
+      FullPath: /Users/azabu11/CommonUnityTraining2017/Temp/Export Package/31cf7804382054ea0ad0aa017e677479/15ca2bebf173f2d4484686a03a45b56d/asset.meta
+      ProjectPath: Temp/Export Package/31cf7804382054ea0ad0aa017e677479/15ca2bebf173f2d4484686a03a45b56d/asset.meta
+      OriginalPath: 
+      Status: 5
+      Staged: 0
+    - Path: Temp/Export Package/31cf7804382054ea0ad0aa017e677479/15ca2bebf173f2d4484686a03a45b56d/pathname
+      FullPath: /Users/azabu11/CommonUnityTraining2017/Temp/Export Package/31cf7804382054ea0ad0aa017e677479/15ca2bebf173f2d4484686a03a45b56d/pathname
+      ProjectPath: Temp/Export Package/31cf7804382054ea0ad0aa017e677479/15ca2bebf173f2d4484686a03a45b56d/pathname
+      OriginalPath: 
+      Status: 5
+      Staged: 0
+    - Path: Temp/Export Package/31cf7804382054ea0ad0aa017e677479/18eb894d53ff491408b69602eb959000/asset
+      FullPath: /Users/azabu11/CommonUnityTraining2017/Temp/Export Package/31cf7804382054ea0ad0aa017e677479/18eb894d53ff491408b69602eb959000/asset
+      ProjectPath: Temp/Export Package/31cf7804382054ea0ad0aa017e677479/18eb894d53ff491408b69602eb959000/asset
+      OriginalPath: 
+      Status: 5
+      Staged: 0
+    - Path: Temp/Export Package/31cf7804382054ea0ad0aa017e677479/18eb894d53ff491408b69602eb959000/asset.meta
+      FullPath: /Users/azabu11/CommonUnityTraining2017/Temp/Export Package/31cf7804382054ea0ad0aa017e677479/18eb894d53ff491408b69602eb959000/asset.meta
+      ProjectPath: Temp/Export Package/31cf7804382054ea0ad0aa017e677479/18eb894d53ff491408b69602eb959000/asset.meta
+      OriginalPath: 
+      Status: 5
+      Staged: 0
+    - Path: Temp/Export Package/31cf7804382054ea0ad0aa017e677479/18eb894d53ff491408b69602eb959000/pathname
+      FullPath: /Users/azabu11/CommonUnityTraining2017/Temp/Export Package/31cf7804382054ea0ad0aa017e677479/18eb894d53ff491408b69602eb959000/pathname
+      ProjectPath: Temp/Export Package/31cf7804382054ea0ad0aa017e677479/18eb894d53ff491408b69602eb959000/pathname
+      OriginalPath: 
+      Status: 5
+      Staged: 0
+    - Path: Temp/Export Package/31cf7804382054ea0ad0aa017e677479/1bf89c9fbca28724a8d8fbcf427c47f4/asset
+      FullPath: /Users/azabu11/CommonUnityTraining2017/Temp/Export Package/31cf7804382054ea0ad0aa017e677479/1bf89c9fbca28724a8d8fbcf427c47f4/asset
+      ProjectPath: Temp/Export Package/31cf7804382054ea0ad0aa017e677479/1bf89c9fbca28724a8d8fbcf427c47f4/asset
+      OriginalPath: 
+      Status: 5
+      Staged: 0
+    - Path: Temp/Export Package/31cf7804382054ea0ad0aa017e677479/1bf89c9fbca28724a8d8fbcf427c47f4/asset.meta
+      FullPath: /Users/azabu11/CommonUnityTraining2017/Temp/Export Package/31cf7804382054ea0ad0aa017e677479/1bf89c9fbca28724a8d8fbcf427c47f4/asset.meta
+      ProjectPath: Temp/Export Package/31cf7804382054ea0ad0aa017e677479/1bf89c9fbca28724a8d8fbcf427c47f4/asset.meta
+      OriginalPath: 
+      Status: 5
+      Staged: 0
+    - Path: Temp/Export Package/31cf7804382054ea0ad0aa017e677479/1bf89c9fbca28724a8d8fbcf427c47f4/pathname
+      FullPath: /Users/azabu11/CommonUnityTraining2017/Temp/Export Package/31cf7804382054ea0ad0aa017e677479/1bf89c9fbca28724a8d8fbcf427c47f4/pathname
+      ProjectPath: Temp/Export Package/31cf7804382054ea0ad0aa017e677479/1bf89c9fbca28724a8d8fbcf427c47f4/pathname
+      OriginalPath: 
+      Status: 5
+      Staged: 0
+    - Path: Temp/Export Package/31cf7804382054ea0ad0aa017e677479/23c8bee69b591054094d32918f98facd/asset
+      FullPath: /Users/azabu11/CommonUnityTraining2017/Temp/Export Package/31cf7804382054ea0ad0aa017e677479/23c8bee69b591054094d32918f98facd/asset
+      ProjectPath: Temp/Export Package/31cf7804382054ea0ad0aa017e677479/23c8bee69b591054094d32918f98facd/asset
+      OriginalPath: 
+      Status: 5
+      Staged: 0
+    - Path: Temp/Export Package/31cf7804382054ea0ad0aa017e677479/23c8bee69b591054094d32918f98facd/asset.meta
+      FullPath: /Users/azabu11/CommonUnityTraining2017/Temp/Export Package/31cf7804382054ea0ad0aa017e677479/23c8bee69b591054094d32918f98facd/asset.meta
+      ProjectPath: Temp/Export Package/31cf7804382054ea0ad0aa017e677479/23c8bee69b591054094d32918f98facd/asset.meta
+      OriginalPath: 
+      Status: 5
+      Staged: 0
+    - Path: Temp/Export Package/31cf7804382054ea0ad0aa017e677479/23c8bee69b591054094d32918f98facd/pathname
+      FullPath: /Users/azabu11/CommonUnityTraining2017/Temp/Export Package/31cf7804382054ea0ad0aa017e677479/23c8bee69b591054094d32918f98facd/pathname
+      ProjectPath: Temp/Export Package/31cf7804382054ea0ad0aa017e677479/23c8bee69b591054094d32918f98facd/pathname
+      OriginalPath: 
+      Status: 5
+      Staged: 0
+    - Path: Temp/Export Package/31cf7804382054ea0ad0aa017e677479/36f73b0d4842ba7448027c0215f522b1/asset
+      FullPath: /Users/azabu11/CommonUnityTraining2017/Temp/Export Package/31cf7804382054ea0ad0aa017e677479/36f73b0d4842ba7448027c0215f522b1/asset
+      ProjectPath: Temp/Export Package/31cf7804382054ea0ad0aa017e677479/36f73b0d4842ba7448027c0215f522b1/asset
+      OriginalPath: 
+      Status: 5
+      Staged: 0
+    - Path: Temp/Export Package/31cf7804382054ea0ad0aa017e677479/36f73b0d4842ba7448027c0215f522b1/asset.meta
+      FullPath: /Users/azabu11/CommonUnityTraining2017/Temp/Export Package/31cf7804382054ea0ad0aa017e677479/36f73b0d4842ba7448027c0215f522b1/asset.meta
+      ProjectPath: Temp/Export Package/31cf7804382054ea0ad0aa017e677479/36f73b0d4842ba7448027c0215f522b1/asset.meta
+      OriginalPath: 
+      Status: 5
+      Staged: 0
+    - Path: Temp/Export Package/31cf7804382054ea0ad0aa017e677479/36f73b0d4842ba7448027c0215f522b1/pathname
+      FullPath: /Users/azabu11/CommonUnityTraining2017/Temp/Export Package/31cf7804382054ea0ad0aa017e677479/36f73b0d4842ba7448027c0215f522b1/pathname
+      ProjectPath: Temp/Export Package/31cf7804382054ea0ad0aa017e677479/36f73b0d4842ba7448027c0215f522b1/pathname
+      OriginalPath: 
+      Status: 5
+      Staged: 0
+    - Path: Temp/Export Package/31cf7804382054ea0ad0aa017e677479/3b492e05a032ca64abd67a795b2662ef/asset
+      FullPath: /Users/azabu11/CommonUnityTraining2017/Temp/Export Package/31cf7804382054ea0ad0aa017e677479/3b492e05a032ca64abd67a795b2662ef/asset
+      ProjectPath: Temp/Export Package/31cf7804382054ea0ad0aa017e677479/3b492e05a032ca64abd67a795b2662ef/asset
+      OriginalPath: 
+      Status: 5
+      Staged: 0
+    - Path: Temp/Export Package/31cf7804382054ea0ad0aa017e677479/3b492e05a032ca64abd67a795b2662ef/asset.meta
+      FullPath: /Users/azabu11/CommonUnityTraining2017/Temp/Export Package/31cf7804382054ea0ad0aa017e677479/3b492e05a032ca64abd67a795b2662ef/asset.meta
+      ProjectPath: Temp/Export Package/31cf7804382054ea0ad0aa017e677479/3b492e05a032ca64abd67a795b2662ef/asset.meta
+      OriginalPath: 
+      Status: 5
+      Staged: 0
+    - Path: Temp/Export Package/31cf7804382054ea0ad0aa017e677479/3b492e05a032ca64abd67a795b2662ef/pathname
+      FullPath: /Users/azabu11/CommonUnityTraining2017/Temp/Export Package/31cf7804382054ea0ad0aa017e677479/3b492e05a032ca64abd67a795b2662ef/pathname
+      ProjectPath: Temp/Export Package/31cf7804382054ea0ad0aa017e677479/3b492e05a032ca64abd67a795b2662ef/pathname
+      OriginalPath: 
+      Status: 5
+      Staged: 0
+    - Path: Temp/Export Package/31cf7804382054ea0ad0aa017e677479/48c22d5d7479fcb49ab3be0cdd2ccec0/asset
+      FullPath: /Users/azabu11/CommonUnityTraining2017/Temp/Export Package/31cf7804382054ea0ad0aa017e677479/48c22d5d7479fcb49ab3be0cdd2ccec0/asset
+      ProjectPath: Temp/Export Package/31cf7804382054ea0ad0aa017e677479/48c22d5d7479fcb49ab3be0cdd2ccec0/asset
+      OriginalPath: 
+      Status: 5
+      Staged: 0
+    - Path: Temp/Export Package/31cf7804382054ea0ad0aa017e677479/48c22d5d7479fcb49ab3be0cdd2ccec0/asset.meta
+      FullPath: /Users/azabu11/CommonUnityTraining2017/Temp/Export Package/31cf7804382054ea0ad0aa017e677479/48c22d5d7479fcb49ab3be0cdd2ccec0/asset.meta
+      ProjectPath: Temp/Export Package/31cf7804382054ea0ad0aa017e677479/48c22d5d7479fcb49ab3be0cdd2ccec0/asset.meta
+      OriginalPath: 
+      Status: 5
+      Staged: 0
+    - Path: Temp/Export Package/31cf7804382054ea0ad0aa017e677479/48c22d5d7479fcb49ab3be0cdd2ccec0/pathname
+      FullPath: /Users/azabu11/CommonUnityTraining2017/Temp/Export Package/31cf7804382054ea0ad0aa017e677479/48c22d5d7479fcb49ab3be0cdd2ccec0/pathname
+      ProjectPath: Temp/Export Package/31cf7804382054ea0ad0aa017e677479/48c22d5d7479fcb49ab3be0cdd2ccec0/pathname
+      OriginalPath: 
+      Status: 5
+      Staged: 0
+    - Path: Temp/Export Package/31cf7804382054ea0ad0aa017e677479/598f7cc167e65424284e573aff0f1294/asset
+      FullPath: /Users/azabu11/CommonUnityTraining2017/Temp/Export Package/31cf7804382054ea0ad0aa017e677479/598f7cc167e65424284e573aff0f1294/asset
+      ProjectPath: Temp/Export Package/31cf7804382054ea0ad0aa017e677479/598f7cc167e65424284e573aff0f1294/asset
+      OriginalPath: 
+      Status: 5
+      Staged: 0
+    - Path: Temp/Export Package/31cf7804382054ea0ad0aa017e677479/598f7cc167e65424284e573aff0f1294/asset.meta
+      FullPath: /Users/azabu11/CommonUnityTraining2017/Temp/Export Package/31cf7804382054ea0ad0aa017e677479/598f7cc167e65424284e573aff0f1294/asset.meta
+      ProjectPath: Temp/Export Package/31cf7804382054ea0ad0aa017e677479/598f7cc167e65424284e573aff0f1294/asset.meta
+      OriginalPath: 
+      Status: 5
+      Staged: 0
+    - Path: Temp/Export Package/31cf7804382054ea0ad0aa017e677479/598f7cc167e65424284e573aff0f1294/pathname
+      FullPath: /Users/azabu11/CommonUnityTraining2017/Temp/Export Package/31cf7804382054ea0ad0aa017e677479/598f7cc167e65424284e573aff0f1294/pathname
+      ProjectPath: Temp/Export Package/31cf7804382054ea0ad0aa017e677479/598f7cc167e65424284e573aff0f1294/pathname
+      OriginalPath: 
+      Status: 5
+      Staged: 0
+    - Path: Temp/Export Package/31cf7804382054ea0ad0aa017e677479/67a48bef50c8f384ab614ca4fd2f1d25/asset.meta
+      FullPath: /Users/azabu11/CommonUnityTraining2017/Temp/Export Package/31cf7804382054ea0ad0aa017e677479/67a48bef50c8f384ab614ca4fd2f1d25/asset.meta
+      ProjectPath: Temp/Export Package/31cf7804382054ea0ad0aa017e677479/67a48bef50c8f384ab614ca4fd2f1d25/asset.meta
+      OriginalPath: 
+      Status: 5
+      Staged: 0
+    - Path: Temp/Export Package/31cf7804382054ea0ad0aa017e677479/67a48bef50c8f384ab614ca4fd2f1d25/pathname
+      FullPath: /Users/azabu11/CommonUnityTraining2017/Temp/Export Package/31cf7804382054ea0ad0aa017e677479/67a48bef50c8f384ab614ca4fd2f1d25/pathname
+      ProjectPath: Temp/Export Package/31cf7804382054ea0ad0aa017e677479/67a48bef50c8f384ab614ca4fd2f1d25/pathname
+      OriginalPath: 
+      Status: 5
+      Staged: 0
+    - Path: Temp/Export Package/31cf7804382054ea0ad0aa017e677479/790749ba7e4b18141953e39cb13f1b79/asset
+      FullPath: /Users/azabu11/CommonUnityTraining2017/Temp/Export Package/31cf7804382054ea0ad0aa017e677479/790749ba7e4b18141953e39cb13f1b79/asset
+      ProjectPath: Temp/Export Package/31cf7804382054ea0ad0aa017e677479/790749ba7e4b18141953e39cb13f1b79/asset
+      OriginalPath: 
+      Status: 5
+      Staged: 0
+    - Path: Temp/Export Package/31cf7804382054ea0ad0aa017e677479/790749ba7e4b18141953e39cb13f1b79/asset.meta
+      FullPath: /Users/azabu11/CommonUnityTraining2017/Temp/Export Package/31cf7804382054ea0ad0aa017e677479/790749ba7e4b18141953e39cb13f1b79/asset.meta
+      ProjectPath: Temp/Export Package/31cf7804382054ea0ad0aa017e677479/790749ba7e4b18141953e39cb13f1b79/asset.meta
+      OriginalPath: 
+      Status: 5
+      Staged: 0
+    - Path: Temp/Export Package/31cf7804382054ea0ad0aa017e677479/790749ba7e4b18141953e39cb13f1b79/pathname
+      FullPath: /Users/azabu11/CommonUnityTraining2017/Temp/Export Package/31cf7804382054ea0ad0aa017e677479/790749ba7e4b18141953e39cb13f1b79/pathname
+      ProjectPath: Temp/Export Package/31cf7804382054ea0ad0aa017e677479/790749ba7e4b18141953e39cb13f1b79/pathname
+      OriginalPath: 
+      Status: 5
+      Staged: 0
+    - Path: Temp/Export Package/31cf7804382054ea0ad0aa017e677479/8394acfdb3079ab44bb9f2eca6339f5d/asset
+      FullPath: /Users/azabu11/CommonUnityTraining2017/Temp/Export Package/31cf7804382054ea0ad0aa017e677479/8394acfdb3079ab44bb9f2eca6339f5d/asset
+      ProjectPath: Temp/Export Package/31cf7804382054ea0ad0aa017e677479/8394acfdb3079ab44bb9f2eca6339f5d/asset
+      OriginalPath: 
+      Status: 5
+      Staged: 0
+    - Path: Temp/Export Package/31cf7804382054ea0ad0aa017e677479/8394acfdb3079ab44bb9f2eca6339f5d/asset.meta
+      FullPath: /Users/azabu11/CommonUnityTraining2017/Temp/Export Package/31cf7804382054ea0ad0aa017e677479/8394acfdb3079ab44bb9f2eca6339f5d/asset.meta
+      ProjectPath: Temp/Export Package/31cf7804382054ea0ad0aa017e677479/8394acfdb3079ab44bb9f2eca6339f5d/asset.meta
+      OriginalPath: 
+      Status: 5
+      Staged: 0
+    - Path: Temp/Export Package/31cf7804382054ea0ad0aa017e677479/8394acfdb3079ab44bb9f2eca6339f5d/pathname
+      FullPath: /Users/azabu11/CommonUnityTraining2017/Temp/Export Package/31cf7804382054ea0ad0aa017e677479/8394acfdb3079ab44bb9f2eca6339f5d/pathname
+      ProjectPath: Temp/Export Package/31cf7804382054ea0ad0aa017e677479/8394acfdb3079ab44bb9f2eca6339f5d/pathname
+      OriginalPath: 
+      Status: 5
+      Staged: 0
+    - Path: Temp/Export Package/31cf7804382054ea0ad0aa017e677479/868fbb4c41814baebc00f96e24ede2f8/asset
+      FullPath: /Users/azabu11/CommonUnityTraining2017/Temp/Export Package/31cf7804382054ea0ad0aa017e677479/868fbb4c41814baebc00f96e24ede2f8/asset
+      ProjectPath: Temp/Export Package/31cf7804382054ea0ad0aa017e677479/868fbb4c41814baebc00f96e24ede2f8/asset
+      OriginalPath: 
+      Status: 5
+      Staged: 0
+    - Path: Temp/Export Package/31cf7804382054ea0ad0aa017e677479/868fbb4c41814baebc00f96e24ede2f8/asset.meta
+      FullPath: /Users/azabu11/CommonUnityTraining2017/Temp/Export Package/31cf7804382054ea0ad0aa017e677479/868fbb4c41814baebc00f96e24ede2f8/asset.meta
+      ProjectPath: Temp/Export Package/31cf7804382054ea0ad0aa017e677479/868fbb4c41814baebc00f96e24ede2f8/asset.meta
+      OriginalPath: 
+      Status: 5
+      Staged: 0
+    - Path: Temp/Export Package/31cf7804382054ea0ad0aa017e677479/868fbb4c41814baebc00f96e24ede2f8/pathname
+      FullPath: /Users/azabu11/CommonUnityTraining2017/Temp/Export Package/31cf7804382054ea0ad0aa017e677479/868fbb4c41814baebc00f96e24ede2f8/pathname
+      ProjectPath: Temp/Export Package/31cf7804382054ea0ad0aa017e677479/868fbb4c41814baebc00f96e24ede2f8/pathname
+      OriginalPath: 
+      Status: 5
+      Staged: 0
+    - Path: Temp/Export Package/31cf7804382054ea0ad0aa017e677479/99b48d4d4f6a66340ab06bd487d70a45/asset.meta
+      FullPath: /Users/azabu11/CommonUnityTraining2017/Temp/Export Package/31cf7804382054ea0ad0aa017e677479/99b48d4d4f6a66340ab06bd487d70a45/asset.meta
+      ProjectPath: Temp/Export Package/31cf7804382054ea0ad0aa017e677479/99b48d4d4f6a66340ab06bd487d70a45/asset.meta
+      OriginalPath: 
+      Status: 5
+      Staged: 0
+    - Path: Temp/Export Package/31cf7804382054ea0ad0aa017e677479/99b48d4d4f6a66340ab06bd487d70a45/pathname
+      FullPath: /Users/azabu11/CommonUnityTraining2017/Temp/Export Package/31cf7804382054ea0ad0aa017e677479/99b48d4d4f6a66340ab06bd487d70a45/pathname
+      ProjectPath: Temp/Export Package/31cf7804382054ea0ad0aa017e677479/99b48d4d4f6a66340ab06bd487d70a45/pathname
+      OriginalPath: 
+      Status: 5
+      Staged: 0
+    - Path: Temp/Export Package/31cf7804382054ea0ad0aa017e677479/9a3d76defc526e24fb350cdf5358b386/asset.meta
+      FullPath: /Users/azabu11/CommonUnityTraining2017/Temp/Export Package/31cf7804382054ea0ad0aa017e677479/9a3d76defc526e24fb350cdf5358b386/asset.meta
+      ProjectPath: Temp/Export Package/31cf7804382054ea0ad0aa017e677479/9a3d76defc526e24fb350cdf5358b386/asset.meta
+      OriginalPath: 
+      Status: 5
+      Staged: 0
+    - Path: Temp/Export Package/31cf7804382054ea0ad0aa017e677479/9a3d76defc526e24fb350cdf5358b386/pathname
+      FullPath: /Users/azabu11/CommonUnityTraining2017/Temp/Export Package/31cf7804382054ea0ad0aa017e677479/9a3d76defc526e24fb350cdf5358b386/pathname
+      ProjectPath: Temp/Export Package/31cf7804382054ea0ad0aa017e677479/9a3d76defc526e24fb350cdf5358b386/pathname
+      OriginalPath: 
+      Status: 5
+      Staged: 0
+    - Path: Temp/Export Package/31cf7804382054ea0ad0aa017e677479/a0ded7adcc817ce489fec07977f16d13/asset.meta
+      FullPath: /Users/azabu11/CommonUnityTraining2017/Temp/Export Package/31cf7804382054ea0ad0aa017e677479/a0ded7adcc817ce489fec07977f16d13/asset.meta
+      ProjectPath: Temp/Export Package/31cf7804382054ea0ad0aa017e677479/a0ded7adcc817ce489fec07977f16d13/asset.meta
+      OriginalPath: 
+      Status: 5
+      Staged: 0
+    - Path: Temp/Export Package/31cf7804382054ea0ad0aa017e677479/a0ded7adcc817ce489fec07977f16d13/pathname
+      FullPath: /Users/azabu11/CommonUnityTraining2017/Temp/Export Package/31cf7804382054ea0ad0aa017e677479/a0ded7adcc817ce489fec07977f16d13/pathname
+      ProjectPath: Temp/Export Package/31cf7804382054ea0ad0aa017e677479/a0ded7adcc817ce489fec07977f16d13/pathname
+      OriginalPath: 
+      Status: 5
+      Staged: 0
+    - Path: Temp/Export Package/31cf7804382054ea0ad0aa017e677479/a1ae072c6d0a6fe42881de7c5c8d66eb/asset.meta
+      FullPath: /Users/azabu11/CommonUnityTraining2017/Temp/Export Package/31cf7804382054ea0ad0aa017e677479/a1ae072c6d0a6fe42881de7c5c8d66eb/asset.meta
+      ProjectPath: Temp/Export Package/31cf7804382054ea0ad0aa017e677479/a1ae072c6d0a6fe42881de7c5c8d66eb/asset.meta
+      OriginalPath: 
+      Status: 5
+      Staged: 0
+    - Path: Temp/Export Package/31cf7804382054ea0ad0aa017e677479/a1ae072c6d0a6fe42881de7c5c8d66eb/pathname
+      FullPath: /Users/azabu11/CommonUnityTraining2017/Temp/Export Package/31cf7804382054ea0ad0aa017e677479/a1ae072c6d0a6fe42881de7c5c8d66eb/pathname
+      ProjectPath: Temp/Export Package/31cf7804382054ea0ad0aa017e677479/a1ae072c6d0a6fe42881de7c5c8d66eb/pathname
+      OriginalPath: 
+      Status: 5
+      Staged: 0
+    - Path: Temp/Export Package/31cf7804382054ea0ad0aa017e677479/a83159a46d87d2a4f8cec651049b9231/asset
+      FullPath: /Users/azabu11/CommonUnityTraining2017/Temp/Export Package/31cf7804382054ea0ad0aa017e677479/a83159a46d87d2a4f8cec651049b9231/asset
+      ProjectPath: Temp/Export Package/31cf7804382054ea0ad0aa017e677479/a83159a46d87d2a4f8cec651049b9231/asset
+      OriginalPath: 
+      Status: 5
+      Staged: 0
+    - Path: Temp/Export Package/31cf7804382054ea0ad0aa017e677479/a83159a46d87d2a4f8cec651049b9231/asset.meta
+      FullPath: /Users/azabu11/CommonUnityTraining2017/Temp/Export Package/31cf7804382054ea0ad0aa017e677479/a83159a46d87d2a4f8cec651049b9231/asset.meta
+      ProjectPath: Temp/Export Package/31cf7804382054ea0ad0aa017e677479/a83159a46d87d2a4f8cec651049b9231/asset.meta
+      OriginalPath: 
+      Status: 5
+      Staged: 0
+    - Path: Temp/Export Package/31cf7804382054ea0ad0aa017e677479/a83159a46d87d2a4f8cec651049b9231/pathname
+      FullPath: /Users/azabu11/CommonUnityTraining2017/Temp/Export Package/31cf7804382054ea0ad0aa017e677479/a83159a46d87d2a4f8cec651049b9231/pathname
+      ProjectPath: Temp/Export Package/31cf7804382054ea0ad0aa017e677479/a83159a46d87d2a4f8cec651049b9231/pathname
+      OriginalPath: 
+      Status: 5
+      Staged: 0
+    - Path: Temp/Export Package/31cf7804382054ea0ad0aa017e677479/aa1ea5443647d3f41ad4a9721108be29/asset
+      FullPath: /Users/azabu11/CommonUnityTraining2017/Temp/Export Package/31cf7804382054ea0ad0aa017e677479/aa1ea5443647d3f41ad4a9721108be29/asset
+      ProjectPath: Temp/Export Package/31cf7804382054ea0ad0aa017e677479/aa1ea5443647d3f41ad4a9721108be29/asset
+      OriginalPath: 
+      Status: 5
+      Staged: 0
+    - Path: Temp/Export Package/31cf7804382054ea0ad0aa017e677479/aa1ea5443647d3f41ad4a9721108be29/asset.meta
+      FullPath: /Users/azabu11/CommonUnityTraining2017/Temp/Export Package/31cf7804382054ea0ad0aa017e677479/aa1ea5443647d3f41ad4a9721108be29/asset.meta
+      ProjectPath: Temp/Export Package/31cf7804382054ea0ad0aa017e677479/aa1ea5443647d3f41ad4a9721108be29/asset.meta
+      OriginalPath: 
+      Status: 5
+      Staged: 0
+    - Path: Temp/Export Package/31cf7804382054ea0ad0aa017e677479/aa1ea5443647d3f41ad4a9721108be29/pathname
+      FullPath: /Users/azabu11/CommonUnityTraining2017/Temp/Export Package/31cf7804382054ea0ad0aa017e677479/aa1ea5443647d3f41ad4a9721108be29/pathname
+      ProjectPath: Temp/Export Package/31cf7804382054ea0ad0aa017e677479/aa1ea5443647d3f41ad4a9721108be29/pathname
+      OriginalPath: 
+      Status: 5
+      Staged: 0
+    - Path: Temp/Export Package/31cf7804382054ea0ad0aa017e677479/b11c05f6b4d178142971027059c71477/asset
+      FullPath: /Users/azabu11/CommonUnityTraining2017/Temp/Export Package/31cf7804382054ea0ad0aa017e677479/b11c05f6b4d178142971027059c71477/asset
+      ProjectPath: Temp/Export Package/31cf7804382054ea0ad0aa017e677479/b11c05f6b4d178142971027059c71477/asset
+      OriginalPath: 
+      Status: 5
+      Staged: 0
+    - Path: Temp/Export Package/31cf7804382054ea0ad0aa017e677479/b11c05f6b4d178142971027059c71477/asset.meta
+      FullPath: /Users/azabu11/CommonUnityTraining2017/Temp/Export Package/31cf7804382054ea0ad0aa017e677479/b11c05f6b4d178142971027059c71477/asset.meta
+      ProjectPath: Temp/Export Package/31cf7804382054ea0ad0aa017e677479/b11c05f6b4d178142971027059c71477/asset.meta
+      OriginalPath: 
+      Status: 5
+      Staged: 0
+    - Path: Temp/Export Package/31cf7804382054ea0ad0aa017e677479/b11c05f6b4d178142971027059c71477/pathname
+      FullPath: /Users/azabu11/CommonUnityTraining2017/Temp/Export Package/31cf7804382054ea0ad0aa017e677479/b11c05f6b4d178142971027059c71477/pathname
+      ProjectPath: Temp/Export Package/31cf7804382054ea0ad0aa017e677479/b11c05f6b4d178142971027059c71477/pathname
+      OriginalPath: 
+      Status: 5
+      Staged: 0
+    - Path: Temp/Export Package/31cf7804382054ea0ad0aa017e677479/ba8ad3e6c5be01e448c1f3593515049c/asset.meta
+      FullPath: /Users/azabu11/CommonUnityTraining2017/Temp/Export Package/31cf7804382054ea0ad0aa017e677479/ba8ad3e6c5be01e448c1f3593515049c/asset.meta
+      ProjectPath: Temp/Export Package/31cf7804382054ea0ad0aa017e677479/ba8ad3e6c5be01e448c1f3593515049c/asset.meta
+      OriginalPath: 
+      Status: 5
+      Staged: 0
+    - Path: Temp/Export Package/31cf7804382054ea0ad0aa017e677479/ba8ad3e6c5be01e448c1f3593515049c/pathname
+      FullPath: /Users/azabu11/CommonUnityTraining2017/Temp/Export Package/31cf7804382054ea0ad0aa017e677479/ba8ad3e6c5be01e448c1f3593515049c/pathname
+      ProjectPath: Temp/Export Package/31cf7804382054ea0ad0aa017e677479/ba8ad3e6c5be01e448c1f3593515049c/pathname
+      OriginalPath: 
+      Status: 5
+      Staged: 0
+    - Path: Temp/Export Package/31cf7804382054ea0ad0aa017e677479/c5c83d14802e712408f23409f3c59e26/asset
+      FullPath: /Users/azabu11/CommonUnityTraining2017/Temp/Export Package/31cf7804382054ea0ad0aa017e677479/c5c83d14802e712408f23409f3c59e26/asset
+      ProjectPath: Temp/Export Package/31cf7804382054ea0ad0aa017e677479/c5c83d14802e712408f23409f3c59e26/asset
+      OriginalPath: 
+      Status: 5
+      Staged: 0
+    - Path: Temp/Export Package/31cf7804382054ea0ad0aa017e677479/c5c83d14802e712408f23409f3c59e26/asset.meta
+      FullPath: /Users/azabu11/CommonUnityTraining2017/Temp/Export Package/31cf7804382054ea0ad0aa017e677479/c5c83d14802e712408f23409f3c59e26/asset.meta
+      ProjectPath: Temp/Export Package/31cf7804382054ea0ad0aa017e677479/c5c83d14802e712408f23409f3c59e26/asset.meta
+      OriginalPath: 
+      Status: 5
+      Staged: 0
+    - Path: Temp/Export Package/31cf7804382054ea0ad0aa017e677479/c5c83d14802e712408f23409f3c59e26/pathname
+      FullPath: /Users/azabu11/CommonUnityTraining2017/Temp/Export Package/31cf7804382054ea0ad0aa017e677479/c5c83d14802e712408f23409f3c59e26/pathname
+      ProjectPath: Temp/Export Package/31cf7804382054ea0ad0aa017e677479/c5c83d14802e712408f23409f3c59e26/pathname
+      OriginalPath: 
+      Status: 5
+      Staged: 0
+    - Path: Temp/Export Package/31cf7804382054ea0ad0aa017e677479/c743ae24ee231884887054d20ccdd0ae/asset
+      FullPath: /Users/azabu11/CommonUnityTraining2017/Temp/Export Package/31cf7804382054ea0ad0aa017e677479/c743ae24ee231884887054d20ccdd0ae/asset
+      ProjectPath: Temp/Export Package/31cf7804382054ea0ad0aa017e677479/c743ae24ee231884887054d20ccdd0ae/asset
+      OriginalPath: 
+      Status: 5
+      Staged: 0
+    - Path: Temp/Export Package/31cf7804382054ea0ad0aa017e677479/c743ae24ee231884887054d20ccdd0ae/asset.meta
+      FullPath: /Users/azabu11/CommonUnityTraining2017/Temp/Export Package/31cf7804382054ea0ad0aa017e677479/c743ae24ee231884887054d20ccdd0ae/asset.meta
+      ProjectPath: Temp/Export Package/31cf7804382054ea0ad0aa017e677479/c743ae24ee231884887054d20ccdd0ae/asset.meta
+      OriginalPath: 
+      Status: 5
+      Staged: 0
+    - Path: Temp/Export Package/31cf7804382054ea0ad0aa017e677479/c743ae24ee231884887054d20ccdd0ae/pathname
+      FullPath: /Users/azabu11/CommonUnityTraining2017/Temp/Export Package/31cf7804382054ea0ad0aa017e677479/c743ae24ee231884887054d20ccdd0ae/pathname
+      ProjectPath: Temp/Export Package/31cf7804382054ea0ad0aa017e677479/c743ae24ee231884887054d20ccdd0ae/pathname
+      OriginalPath: 
+      Status: 5
+      Staged: 0
+    - Path: Temp/Export Package/31cf7804382054ea0ad0aa017e677479/ca9ef9f91d24fab40addaf0deaf60506/asset
+      FullPath: /Users/azabu11/CommonUnityTraining2017/Temp/Export Package/31cf7804382054ea0ad0aa017e677479/ca9ef9f91d24fab40addaf0deaf60506/asset
+      ProjectPath: Temp/Export Package/31cf7804382054ea0ad0aa017e677479/ca9ef9f91d24fab40addaf0deaf60506/asset
+      OriginalPath: 
+      Status: 5
+      Staged: 0
+    - Path: Temp/Export Package/31cf7804382054ea0ad0aa017e677479/ca9ef9f91d24fab40addaf0deaf60506/asset.meta
+      FullPath: /Users/azabu11/CommonUnityTraining2017/Temp/Export Package/31cf7804382054ea0ad0aa017e677479/ca9ef9f91d24fab40addaf0deaf60506/asset.meta
+      ProjectPath: Temp/Export Package/31cf7804382054ea0ad0aa017e677479/ca9ef9f91d24fab40addaf0deaf60506/asset.meta
+      OriginalPath: 
+      Status: 5
+      Staged: 0
+    - Path: Temp/Export Package/31cf7804382054ea0ad0aa017e677479/ca9ef9f91d24fab40addaf0deaf60506/pathname
+      FullPath: /Users/azabu11/CommonUnityTraining2017/Temp/Export Package/31cf7804382054ea0ad0aa017e677479/ca9ef9f91d24fab40addaf0deaf60506/pathname
+      ProjectPath: Temp/Export Package/31cf7804382054ea0ad0aa017e677479/ca9ef9f91d24fab40addaf0deaf60506/pathname
+      OriginalPath: 
+      Status: 5
+      Staged: 0
+    - Path: Temp/Export Package/31cf7804382054ea0ad0aa017e677479/cab1a58660fb39f4f807d2ca2c727471/asset
+      FullPath: /Users/azabu11/CommonUnityTraining2017/Temp/Export Package/31cf7804382054ea0ad0aa017e677479/cab1a58660fb39f4f807d2ca2c727471/asset
+      ProjectPath: Temp/Export Package/31cf7804382054ea0ad0aa017e677479/cab1a58660fb39f4f807d2ca2c727471/asset
+      OriginalPath: 
+      Status: 5
+      Staged: 0
+    - Path: Temp/Export Package/31cf7804382054ea0ad0aa017e677479/cab1a58660fb39f4f807d2ca2c727471/asset.meta
+      FullPath: /Users/azabu11/CommonUnityTraining2017/Temp/Export Package/31cf7804382054ea0ad0aa017e677479/cab1a58660fb39f4f807d2ca2c727471/asset.meta
+      ProjectPath: Temp/Export Package/31cf7804382054ea0ad0aa017e677479/cab1a58660fb39f4f807d2ca2c727471/asset.meta
+      OriginalPath: 
+      Status: 5
+      Staged: 0
+    - Path: Temp/Export Package/31cf7804382054ea0ad0aa017e677479/cab1a58660fb39f4f807d2ca2c727471/pathname
+      FullPath: /Users/azabu11/CommonUnityTraining2017/Temp/Export Package/31cf7804382054ea0ad0aa017e677479/cab1a58660fb39f4f807d2ca2c727471/pathname
+      ProjectPath: Temp/Export Package/31cf7804382054ea0ad0aa017e677479/cab1a58660fb39f4f807d2ca2c727471/pathname
+      OriginalPath: 
+      Status: 5
+      Staged: 0
+    - Path: Temp/Export Package/31cf7804382054ea0ad0aa017e677479/d516f2a1bec6a9645a084ef8c9237132/asset
+      FullPath: /Users/azabu11/CommonUnityTraining2017/Temp/Export Package/31cf7804382054ea0ad0aa017e677479/d516f2a1bec6a9645a084ef8c9237132/asset
+      ProjectPath: Temp/Export Package/31cf7804382054ea0ad0aa017e677479/d516f2a1bec6a9645a084ef8c9237132/asset
+      OriginalPath: 
+      Status: 5
+      Staged: 0
+    - Path: Temp/Export Package/31cf7804382054ea0ad0aa017e677479/d516f2a1bec6a9645a084ef8c9237132/asset.meta
+      FullPath: /Users/azabu11/CommonUnityTraining2017/Temp/Export Package/31cf7804382054ea0ad0aa017e677479/d516f2a1bec6a9645a084ef8c9237132/asset.meta
+      ProjectPath: Temp/Export Package/31cf7804382054ea0ad0aa017e677479/d516f2a1bec6a9645a084ef8c9237132/asset.meta
+      OriginalPath: 
+      Status: 5
+      Staged: 0
+    - Path: Temp/Export Package/31cf7804382054ea0ad0aa017e677479/d516f2a1bec6a9645a084ef8c9237132/pathname
+      FullPath: /Users/azabu11/CommonUnityTraining2017/Temp/Export Package/31cf7804382054ea0ad0aa017e677479/d516f2a1bec6a9645a084ef8c9237132/pathname
+      ProjectPath: Temp/Export Package/31cf7804382054ea0ad0aa017e677479/d516f2a1bec6a9645a084ef8c9237132/pathname
+      OriginalPath: 
+      Status: 5
+      Staged: 0
+    - Path: Temp/Export Package/31cf7804382054ea0ad0aa017e677479/ecfb28d906a32914d956497c8d3b3395/asset
+      FullPath: /Users/azabu11/CommonUnityTraining2017/Temp/Export Package/31cf7804382054ea0ad0aa017e677479/ecfb28d906a32914d956497c8d3b3395/asset
+      ProjectPath: Temp/Export Package/31cf7804382054ea0ad0aa017e677479/ecfb28d906a32914d956497c8d3b3395/asset
+      OriginalPath: 
+      Status: 5
+      Staged: 0
+    - Path: Temp/Export Package/31cf7804382054ea0ad0aa017e677479/ecfb28d906a32914d956497c8d3b3395/asset.meta
+      FullPath: /Users/azabu11/CommonUnityTraining2017/Temp/Export Package/31cf7804382054ea0ad0aa017e677479/ecfb28d906a32914d956497c8d3b3395/asset.meta
+      ProjectPath: Temp/Export Package/31cf7804382054ea0ad0aa017e677479/ecfb28d906a32914d956497c8d3b3395/asset.meta
+      OriginalPath: 
+      Status: 5
+      Staged: 0
+    - Path: Temp/Export Package/31cf7804382054ea0ad0aa017e677479/ecfb28d906a32914d956497c8d3b3395/pathname
+      FullPath: /Users/azabu11/CommonUnityTraining2017/Temp/Export Package/31cf7804382054ea0ad0aa017e677479/ecfb28d906a32914d956497c8d3b3395/pathname
+      ProjectPath: Temp/Export Package/31cf7804382054ea0ad0aa017e677479/ecfb28d906a32914d956497c8d3b3395/pathname
+      OriginalPath: 
+      Status: 5
+      Staged: 0
+    - Path: Temp/Export Package/31cf7804382054ea0ad0aa017e677479/f9fc9b08ecd899944adf9860b4abd6b6/asset
+      FullPath: /Users/azabu11/CommonUnityTraining2017/Temp/Export Package/31cf7804382054ea0ad0aa017e677479/f9fc9b08ecd899944adf9860b4abd6b6/asset
+      ProjectPath: Temp/Export Package/31cf7804382054ea0ad0aa017e677479/f9fc9b08ecd899944adf9860b4abd6b6/asset
+      OriginalPath: 
+      Status: 5
+      Staged: 0
+    - Path: Temp/Export Package/31cf7804382054ea0ad0aa017e677479/f9fc9b08ecd899944adf9860b4abd6b6/asset.meta
+      FullPath: /Users/azabu11/CommonUnityTraining2017/Temp/Export Package/31cf7804382054ea0ad0aa017e677479/f9fc9b08ecd899944adf9860b4abd6b6/asset.meta
+      ProjectPath: Temp/Export Package/31cf7804382054ea0ad0aa017e677479/f9fc9b08ecd899944adf9860b4abd6b6/asset.meta
+      OriginalPath: 
+      Status: 5
+      Staged: 0
+    - Path: Temp/Export Package/31cf7804382054ea0ad0aa017e677479/f9fc9b08ecd899944adf9860b4abd6b6/pathname
+      FullPath: /Users/azabu11/CommonUnityTraining2017/Temp/Export Package/31cf7804382054ea0ad0aa017e677479/f9fc9b08ecd899944adf9860b4abd6b6/pathname
+      ProjectPath: Temp/Export Package/31cf7804382054ea0ad0aa017e677479/f9fc9b08ecd899944adf9860b4abd6b6/pathname
+      OriginalPath: 
+      Status: 5
+      Staged: 0
+    - Path: Temp/Export Package/31cf7804382054ea0ad0aa017e677479/fe5abeadcbe591e4fa9107fbc02f3998/asset
+      FullPath: /Users/azabu11/CommonUnityTraining2017/Temp/Export Package/31cf7804382054ea0ad0aa017e677479/fe5abeadcbe591e4fa9107fbc02f3998/asset
+      ProjectPath: Temp/Export Package/31cf7804382054ea0ad0aa017e677479/fe5abeadcbe591e4fa9107fbc02f3998/asset
+      OriginalPath: 
+      Status: 5
+      Staged: 0
+    - Path: Temp/Export Package/31cf7804382054ea0ad0aa017e677479/fe5abeadcbe591e4fa9107fbc02f3998/asset.meta
+      FullPath: /Users/azabu11/CommonUnityTraining2017/Temp/Export Package/31cf7804382054ea0ad0aa017e677479/fe5abeadcbe591e4fa9107fbc02f3998/asset.meta
+      ProjectPath: Temp/Export Package/31cf7804382054ea0ad0aa017e677479/fe5abeadcbe591e4fa9107fbc02f3998/asset.meta
+      OriginalPath: 
+      Status: 5
+      Staged: 0
+    - Path: Temp/Export Package/31cf7804382054ea0ad0aa017e677479/fe5abeadcbe591e4fa9107fbc02f3998/pathname
+      FullPath: /Users/azabu11/CommonUnityTraining2017/Temp/Export Package/31cf7804382054ea0ad0aa017e677479/fe5abeadcbe591e4fa9107fbc02f3998/pathname
+      ProjectPath: Temp/Export Package/31cf7804382054ea0ad0aa017e677479/fe5abeadcbe591e4fa9107fbc02f3998/pathname
+      OriginalPath: 
+      Status: 5
+      Staged: 0
+  - CommitID: 5f77a74f599424c61363428f6260864072d8e01c
+    MergeA: 
+    MergeB: 
+    AuthorName: mya0
+    AuthorEmail: 30719221+mya0@users.noreply.github.com
+    CommitEmail: noreply@github.com
+    CommitName: GitHub
+    Summary: Create README.md
+    Description: Create README.md
+    TimeString: 08/12/2017 21:39:10 +09:00
+    CommitTimeString: 08/12/2017 21:39:10 +09:00
+    Changes:
+    - Path: README.md
+      FullPath: /Users/azabu11/CommonUnityTraining2017/README.md
+      ProjectPath: README.md
+      OriginalPath: 
+      Status: 4
+      Staged: 0
   - CommitID: 235fdf8cc58a922cc299f6764a834585cf680646
     MergeA: 
     MergeB: 
