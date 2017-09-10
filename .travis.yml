@@ -5,7 +5,7 @@ branches:
   - master
 cache:
   directories:
-  - Unity.pkg
+  - cs
 install:
 - sudo -E sh ./install.sh
 
