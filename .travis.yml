@@ -3,6 +3,9 @@ os: osx
 branches:
   only:
   - master
+cache:
+  directories:
+  - Unity.pkg
 install:
 - sudo -E sh ./install.sh
 
